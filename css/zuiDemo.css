@@ -1,0 +1,24 @@
+body {
+    padding-top: 50px;
+}
+
+.login-form {
+    margin-top: 150px;
+    padding: 25px 50px 0 50px;
+    border: 2px solid #dbdbdb;
+    border-radius: 15px;
+}
+
+.login-form div[class=input-group] {
+    margin-bottom: 25px;
+}
+
+.login-submit {
+    font-family: monospace;
+    margin-left: 70px;
+    width: 200px;
+}
+
+.mycontainter {
+    margin-top: 30px;
+}
